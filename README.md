@@ -29,7 +29,7 @@
   User information to try the system
 <ul>
   <li>
-admin@site.com 
+staff@site.com
   </li>
   <li>
 aA?123456
